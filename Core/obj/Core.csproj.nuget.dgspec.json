@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj": {}
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj": {
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\jaryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\obj\\",
+        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaryk\\AppData\\Roaming\\NuGet\\NuGet.Config"

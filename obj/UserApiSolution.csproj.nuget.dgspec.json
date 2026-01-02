@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\UserApiSolution.csproj": {}
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\UserApiSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj": {
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\jaryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\obj\\",
+        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaryk\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj"
+              "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj": {
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\jaryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\obj\\",
+        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaryk\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jaryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaryk\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -148,11 +148,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj"
+              "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj"
               },
-              "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Core\\Core.csproj"
+              "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Core\\Core.csproj"
               }
             }
           }
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\UserApiSolution.csproj": {
+    "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\UserApiSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\UserApiSolution.csproj",
+        "projectUniqueName": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\UserApiSolution.csproj",
         "projectName": "UserApiSolution",
-        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\UserApiSolution.csproj",
+        "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\UserApiSolution.csproj",
         "packagesPath": "C:\\Users\\jaryk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\obj\\",
+        "outputPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaryk\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -214,11 +214,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Business\\Business.csproj"
+              "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Business\\Business.csproj"
               },
-              "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\UserApiSolution\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jaryk\\OneDrive\\Desktop\\Meetup\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
